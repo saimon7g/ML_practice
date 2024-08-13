@@ -4,7 +4,7 @@
 # source newenv/bin/activate
 
 # Run the Python script
-python test.py
+python course-1/2_costfunction.py
 
 # Deactivate the virtual environment (optional)
 # deactivate
